@@ -1,2 +1,24 @@
 # Alarm_Clock
-Digital Alarm Clock in Verilog HDL | FSM | ModelSim | Intel Quartus Prime | FPGA RTL Design
+# Digital Alarm Clock (Verilog HDL)
+
+## Overview
+
+## Features
+
+## Architecture
+
+## FSM Design
+
+## Project Structure
+
+## Simulation
+
+## RTL Synthesis
+
+## Results
+
+## Tools Used
+
+## Future Improvements
+
+## Author
