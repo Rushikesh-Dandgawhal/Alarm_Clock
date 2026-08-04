@@ -19,7 +19,7 @@
 ## Overview
 ## 🏗️ Project Architecture
 <p align="center">
-<img src="docs/Digital_Alarm_Clock_Architecture.pn" width="900">
+<img src="docs/Digital_Alarm_Clock_Architecture_Diagram.pn" width="900">
 </p>
 
 ## Features
