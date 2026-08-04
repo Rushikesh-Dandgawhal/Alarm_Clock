@@ -1,5 +1,8 @@
-# Alarm_Clock
+<p align="center">
+  <img src="assets/Alarm_Clock_Banner.png" width="100%">
+</p>
 
+# ⏰ Digital Alarm Clock (Verilog HDL)
 ![Verilog](https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge)
 ![Quartus Prime](https://img.shields.io/badge/Intel-Quartus_Prime-0071C5?style=for-the-badge)
 ![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-green?style=for-the-badge)
