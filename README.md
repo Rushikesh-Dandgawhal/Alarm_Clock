@@ -17,6 +17,10 @@
 # Digital Alarm Clock (Verilog HDL)
 
 ## Overview
+## 🏗️ Project Architecture
+<p align="center">
+<img src="docs/Digital Alarm Clock Architecture.png" width="900">
+</p>
 
 ## Features
 
