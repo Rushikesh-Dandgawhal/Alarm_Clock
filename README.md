@@ -1,4 +1,10 @@
 # Alarm_Clock
+
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge)
+![Quartus Prime](https://img.shields.io/badge/Intel-Quartus_Prime-0071C5?style=for-the-badge)
+![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-green?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-Cyclone_V-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 # Digital Alarm Clock (Verilog HDL)
 
 ## Overview
